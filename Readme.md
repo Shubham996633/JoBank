@@ -1,1 +1,2 @@
-This is JoBank Modern UI/UX Design wesbite built omn React JS and Tailwind CSS
+# JoBank
+This is JoBank Modern UI/UX Design website built on React JS and Tailwind CSS
